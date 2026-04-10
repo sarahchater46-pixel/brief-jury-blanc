@@ -1,4 +1,5 @@
-<img width="1005" height="538" alt="image" src="https://github.com/user-attachments/assets/ea99501f-ac05-4b94-a6ea-3489b287c50f" />
+<img width="1005" height="538" alt="image" src="https://github.com/user-attachments/assets/4459eccb-adef-4e4c-b160-207fbe5e2e0d" />
+
 
 📄 Note de Synthèse : Performance Marketing & Dynamique de Vente
 1. Vue d'Ensemble
