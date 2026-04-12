@@ -1,5 +1,7 @@
 
 ![WhatsApp Image 2026-04-12 at 13 59 26](https://github.com/user-attachments/assets/d8ab1e95-0b84-402a-87e0-dbe98191f12c)
+![WhatsApp Image 2026-04-12 at 14 03 24](https://github.com/user-attachments/assets/05d5c605-92b5-4d98-af86-f4d6da717fe8)
+
 
 📄 Note de Synthèse : Performance Marketing & Dynamique de Vente
 1. Vue d'Ensemble
