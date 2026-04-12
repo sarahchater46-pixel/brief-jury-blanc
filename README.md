@@ -1,5 +1,6 @@
 
-<img width="1005" height="538" alt="image" src="https://github.com/user-attachments/assets/488a86d4-b1bf-4e52-a5fe-7a09f5629e11" />
+![WhatsApp Image 2026-04-12 at 13 59 26](https://github.com/user-attachments/assets/d8ab1e95-0b84-402a-87e0-dbe98191f12c)
+
 📄 Note de Synthèse : Performance Marketing & Dynamique de Vente
 1. Vue d'Ensemble
 L'analyse porte sur un volume d'affaires global de 1,36 million, généré par une base de clients diversifiée. L'objectif principal était d'évaluer l'impact des six dernières campagnes marketing sur le comportement d'achat et la rentabilité par catégorie de produits.
