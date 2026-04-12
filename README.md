@@ -1,11 +1,5 @@
 
-<img width="1024" height="559" alt="Marketing Campaign Performance Report" src="https://github.com/user-attachments/assets/3a52ceb9-e975-4846-813a-b95ad849d654" />
-
-
-
-
-
-
+<img width="1005" height="538" alt="image" src="https://github.com/user-attachments/assets/488a86d4-b1bf-4e52-a5fe-7a09f5629e11" />
 📄 Note de Synthèse : Performance Marketing & Dynamique de Vente
 1. Vue d'Ensemble
 L'analyse porte sur un volume d'affaires global de 1,36 million, généré par une base de clients diversifiée. L'objectif principal était d'évaluer l'impact des six dernières campagnes marketing sur le comportement d'achat et la rentabilité par catégorie de produits.
