@@ -1,5 +1,5 @@
-<img width="1005" height="538" alt="image" src="https://github.com/user-attachments/assets/d8bb8f5d-7038-47f4-8ac8-38623c78bac5" />
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/3a52ceb9-e975-4846-813a-b95ad849d654" />
+
+<img width="1024" height="559" alt="Marketing Campaign Performance Report" src="https://github.com/user-attachments/assets/3a52ceb9-e975-4846-813a-b95ad849d654" />
 
 
 
